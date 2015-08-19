@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+	<channel>
+
+		<title>Her Şey Hakkında Her Şey</title>
+
+		<link>http://www.example.com/podcasts/everything/index.html</link>
+
+		<language>en-us</language>
+
+		<copyright>&#x2117; &amp; &#xA9; 2014 John Doe &amp; Family</copyright>
+
+		<itunes:subtitle>Her şey hakkında bir program</itunes:subtitle>
+
+		<itunes:author>John Doe</itunes:author>
+
+		<itunes:summary>Her Şey Hakkında Her Şey, her şey hakkında bir programdır. Her hafta bir konuya dalıyor ve hakkında söyleyebileceğimiz her şeyi söylüyoruz. Podcast’imizi Podcasts uygulamasında veya iTunes Store’da bulabilirsiniz.</itunes:summary>
+
+		<description>Her Şey Hakkında Her Şey, her şey hakkında bir programdır. Her hafta bir konuya dalıyor ve hakkında söyleyebileceğimiz her şeyi söylüyoruz. Podcast’imizi Podcasts uygulamasında veya iTunes Store’da bulabilirsiniz.</description>
+
+		<itunes:owner>
+
+			<itunes:name>John Doe</itunes:name>
+
+			<itunes:email>john.doe@example.com</itunes:email>
+
+		</itunes:owner>
+
+		<itunes:image href="http://example.com/podcasts/everything/AllAboutEverything.jpg" />
+
+		<itunes:category text="Teknoloji">
+
+		<itunes:category text="Araçlar"/>
+
+		</itunes:category>
+
+		<itunes:category text="TV ve Film"/>
+
+
+		<item>
+
+		<title>Lokma Anahtarlarını Konuşuyoruz</title>
+
+		<itunes:author>Jane Doe</itunes:author>
+
+		<itunes:subtitle>Lokma anahtarlarını karşılaştırmak çok eğlenceli!</itunes:subtitle>
+
+		<itunes:summary>Bu hafta metrik sistem lokma anahtarlarını ve eski İngiliz boru anahtarlarını karşılaştırıyoruz. Hangisi daha iyidir? Gerçekten ikisine de ihtiyacınız var mı? Aradığınız tüm yanıtlar burada.</itunes:summary>
+
+		<itunes:image href="http://example.com/podcasts/everything/AllAboutEverything/Episode2.jpg" />
+
+		<enclosure url="http://example.com/podcasts/everything/AllAboutEverythingEpisode2.mp3" length="5650889" type="audio/mpeg" />
+
+		<guid>http://example.com/podcasts/archive/aae20140608.mp3</guid>
+
+		<pubDate>Çar, 8 Haz 2014 19:00:00 GMT<pubDate>
+
+		<itunes:duration>4:34</itunes:duration>
+
+		</item>
+
+		<item>
+
+		<title>Kırmızı, Beyaz ve Mavi</title>
+
+		<itunes:author>Çeşitli</itunes:author>
+
+		<itunes:subtitle>Kırmızı + Mavi != Mor</itunes:subtitle>
+
+		<itunes:summary>Bu hafta, Mavi biriyseniz Kırmızı bir durumda nasıl hayatta kalacağınızı konuşuyoruz. Veya tam tersi.</itunes:summary>
+
+		<enclosure url="http://example.com/podcasts/everything/AllAboutEverythingEpisode1.mp3" length="498537" type="audio/mpeg" />
+
+		<guid>http://example.com/podcasts/archive/aae20140601.mp3</guid>
+
+		<pubDate>Çar, 1 Haz 2014 19:00:00 GMT</pubDate>
+
+		<itunes:duration>3:59</itunes:duration>
+
+		</item>
+
+	</channel>
+
+</rss>
